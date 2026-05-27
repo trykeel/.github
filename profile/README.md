@@ -6,10 +6,10 @@
   Keel finds flaky tests, explains why they fail using AI, and opens the fix PR —
   automatically.
 
-  - 🔍 Detects flaky tests across every CI run
-  - 🤖 AI classifies root cause (race condition, time dependency, network issue)
-  - 💰 Estimates annual dollar cost per test
-  - 🔧 Opens auto-quarantine PR from keel-bot
+  - Detects flaky tests across every CI run
+  - AI classifies root cause (race condition, time dependency, network issue)
+  - Estimates annual dollar cost per test
+  - Opens auto-quarantine PR from keel-bot
 
   **Install in 5 minutes:**
   ```yaml
